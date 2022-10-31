@@ -1,0 +1,15 @@
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\торотики\bin\Debug\net6.0\торотики.exe
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\торотики\bin\Debug\net6.0\торотики.deps.json
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\торотики\bin\Debug\net6.0\торотики.runtimeconfig.json
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\торотики\bin\Debug\net6.0\торотики.dll
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\торотики\bin\Debug\net6.0\торотики.pdb
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\торотики\obj\Debug\net6.0\торотики.csproj.AssemblyReference.cache
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\торотики\obj\Debug\net6.0\торотики.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\торотики\obj\Debug\net6.0\торотики.AssemblyInfoInputs.cache
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\торотики\obj\Debug\net6.0\торотики.AssemblyInfo.cs
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\торотики\obj\Debug\net6.0\торотики.csproj.CoreCompileInputs.cache
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\торотики\obj\Debug\net6.0\торотики.dll
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\торотики\obj\Debug\net6.0\refint\торотики.dll
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\торотики\obj\Debug\net6.0\торотики.pdb
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\торотики\obj\Debug\net6.0\торотики.genruntimeconfig.cache
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\торотики\obj\Debug\net6.0\ref\торотики.dll
