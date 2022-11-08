@@ -1,0 +1,15 @@
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\tortikisSkorogudaevoi\bin\Debug\net6.0\tortikisSkorogudaevoi.exe
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\tortikisSkorogudaevoi\bin\Debug\net6.0\tortikisSkorogudaevoi.deps.json
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\tortikisSkorogudaevoi\bin\Debug\net6.0\tortikisSkorogudaevoi.runtimeconfig.json
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\tortikisSkorogudaevoi\bin\Debug\net6.0\tortikisSkorogudaevoi.dll
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\tortikisSkorogudaevoi\bin\Debug\net6.0\tortikisSkorogudaevoi.pdb
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\tortikisSkorogudaevoi\obj\Debug\net6.0\tortikisSkorogudaevoi.csproj.AssemblyReference.cache
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\tortikisSkorogudaevoi\obj\Debug\net6.0\tortikisSkorogudaevoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\tortikisSkorogudaevoi\obj\Debug\net6.0\tortikisSkorogudaevoi.AssemblyInfoInputs.cache
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\tortikisSkorogudaevoi\obj\Debug\net6.0\tortikisSkorogudaevoi.AssemblyInfo.cs
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\tortikisSkorogudaevoi\obj\Debug\net6.0\tortikisSkorogudaevoi.csproj.CoreCompileInputs.cache
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\tortikisSkorogudaevoi\obj\Debug\net6.0\tortikisSkorogudaevoi.dll
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\tortikisSkorogudaevoi\obj\Debug\net6.0\refint\tortikisSkorogudaevoi.dll
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\tortikisSkorogudaevoi\obj\Debug\net6.0\tortikisSkorogudaevoi.pdb
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\tortikisSkorogudaevoi\obj\Debug\net6.0\tortikisSkorogudaevoi.genruntimeconfig.cache
+C:\Users\Kotam\OneDrive\Рабочий стол\учеба\C#\tortikisSkorogudaevoi\obj\Debug\net6.0\ref\tortikisSkorogudaevoi.dll
